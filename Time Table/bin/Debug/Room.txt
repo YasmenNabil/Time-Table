@@ -1,0 +1,14 @@
+1,Class1,200,Hall,CS Collage
+2,Class2,50,Section,CS Collage
+3,Class3,150,Hall,CS Collage
+4,Class4,80,Lab,Genedy
+5,Class5,50,Section,Genedy
+6,Class6,150,Hall,CS Collage
+7,Class7,80,Lab,SC Collage
+8,Class8,200,Hall,CS Collage
+9,Class9,50,Section,CS Collage
+10,Class10,150,Hall,CS Collage
+11,GenedyHall,80,Lab,Genedy
+12,SaedA-wahab,250,Hall,CS Collage
+13,Fahmy Tolba,150,Hall,CS Collage
+14,Class11,80,Lab,SC Collage

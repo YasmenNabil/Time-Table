@@ -1,0 +1,18 @@
+15,Lec OR,Lab OR,4,Safaa Mahmoud,Shahd Mostafa
+3,Lec Math3,Sec Math3,3,Neven Atef,Soad Bakry
+4,Lec Math4,Sec Math4,1,Saleh Mahmoud,Mahmoud Mobdy
+5,Lec SP,Lab SP,2,Sally Saad,Nouran Ahmed
+6,Lec Report,Lab Report,2,Mohamed Hamdy,Youmna Ahmed
+7,Lec Advanced,Lab Advanced,2,Heba Hamdy,Aya Ahmed
+8,Lec Logic,Lab Logic,2,Manal Tantawy,Hanaa Saad
+9,Lec File,Lab File,5,Mohamed Hashem,Nouran Ayman
+10,Lec Biophysics,Lab Biophysics,4,AbdalSatar,Mohamed Ali
+11,Lec Propability,Lab Propability,1,Hassan Ramadan,Marwa Shams
+12,Lec Math1,Sec Math1,3,Mohamed Marey,Sara Ahmed
+13,Lec Elactronics,Lab Electronics,2,Noha Abdalsabour,Ahmed Saeed
+14,Lec Cell Biology,Lab Cell Biology,1,Heba Mohamed,Heba Magdy
+1,Lec OOP,Lab OOP,3,Eslam Hegazy,Rafi Amgd
+16,Lec Humanities,GAP,1,Hossam Hebah,No TA
+17,Lec DS,Lab DS,4,Wedad Hamdy,Esraa Hamdy
+18,Lec Biology,Lab Biology,2,Osama Kamal,Hala Ahmed
+2,CS,CS,6,Manal Tantawy,Ahmed Ali
